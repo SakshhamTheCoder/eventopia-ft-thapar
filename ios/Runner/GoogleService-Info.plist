@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379807943334-ta1vd3bn544nudoo5vtu15attctp3glv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379807943334-ta1vd3bn544nudoo5vtu15attctp3glv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAF4cmMlArcq-fh7E9Mv7rXtw04tTj4rhg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379807943334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stg.eventopiaFtThapar</string>
+	<key>PROJECT_ID</key>
+	<string>eventopia-ft-thapar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eventopia-ft-thapar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379807943334:ios:68f81015f3070297908267</string>
+</dict>
+</plist>

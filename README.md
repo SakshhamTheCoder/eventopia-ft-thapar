@@ -1,2 +1,3 @@
-# eventopia-ft-thapar
-App made by EC-512 (Sakshham , Angad, Tanav)
+# eventopia_ft_thapar
+
+A new Flutter project.
